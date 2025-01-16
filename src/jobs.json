@@ -83,6 +83,34 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "77ec",
+      "type": "Part-Time",
+      "title": "Cameron Coffey",
+      "description": "Minima sed enim ut e",
+      "salary": "Over $200K",
+      "location": "Ab id illum et magn",
+      "company": {
+        "name": "Castro Mcdaniel Trading",
+        "description": "Cumque rerum fugiat ",
+        "contactEmail": "kikiv@mailinator.com",
+        "contactPhone": "+1 (291) 752-7766"
+      }
+    },
+    {
+      "id": "a1be",
+      "type": "Internship",
+      "title": "Justine Pruitt",
+      "description": "In eos similique nos",
+      "salary": "Over $200K",
+      "location": "Dolor doloribus id ",
+      "company": {
+        "name": "Hays and Harper Plc",
+        "description": "Molestiae rem sunt e",
+        "contactEmail": "gysoqe@mailinator.com",
+        "contactPhone": "+1 (698) 533-7446"
+      }
     }
   ]
 }
